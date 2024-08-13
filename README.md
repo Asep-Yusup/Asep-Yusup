@@ -6,7 +6,7 @@
 <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
 </div>
 
-## Hey there 👋, I'm ♥️ AsepYusup ♥️
+<h1 align="center">Hi 👋, I'm AsepYusup</h1>
 
 <img align="center" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
 
