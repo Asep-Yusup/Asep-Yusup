@@ -8,6 +8,8 @@
 
 ## Hey there 👋, I'm ♥️ AsepYusup ♥️
 
+<img align="center" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
+
 - 📫 &nbsp; Email Saya : BetyCricket@proton.me
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
