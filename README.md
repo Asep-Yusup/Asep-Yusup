@@ -10,11 +10,18 @@
 
 <img align="center" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
 
-- 📫 &nbsp; Email Saya : BetyCricket@proton.me
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+📫 &nbsp; Email Saya : BetyCricket@proton.me
+
+## 🌐 Connect with Me
+
+Feel free to reach out if you want to collaborate on projects, discuss technology, or just chat!
 
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+[![WhatsApp](https://img.icons8.com/?size=50&id=16713&format=png&color=000000)](https://wa.me/6283847921480)
+[![Telegram](https://img.icons8.com/?size=50&id=63306&format=png&color=000000)](https://t.me/AsepYusup)
 
 
 <h2> Github Stats </h2> 
