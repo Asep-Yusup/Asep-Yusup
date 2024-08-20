@@ -15,7 +15,6 @@
 
 📫 &nbsp; Email Saya : BetyCricket@proton.me
 
-## 🇮🇩 Termux Indonesia 🇮🇩
 
 <h1>Sekrip Open Source<h1>
 
